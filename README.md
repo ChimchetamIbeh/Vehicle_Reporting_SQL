@@ -15,15 +15,15 @@ The database (`crime_reports.sqlite`) models a vehicle reporting system, with th
 
 ## Questions answered
 
-1. Top 10 individuals by number of registered vehicles
-2. Individuals ranked by cars owned (full breakdown)
+1. Top 10 individuals by number of registered vehicles ![Top 10 Car Owners Query Result](https://github.com/ChimchetamIbeh/Vehicle_Reporting_SQL/blob/1f71c805151080ff79ed614d69ee519b332a5fe0/Top%2010%20Car%20Owners.png)
+2. Individuals ranked by cars owned (full breakdown) ![Fleet Owners](https://github.com/ChimchetamIbeh/Vehicle_Reporting_SQL/blob/1f71c805151080ff79ed614d69ee519b332a5fe0/Fleet%20Owners.png)
 3. Most recent status report for each car, with owner and vehicle details
 4. Count of reports by status
 5. Investigators ranked by number of assigned reports, with jurisdiction
-6. Latest report per car (id, status, date)
+6. Latest report per car (id, status, date) ![Status Report](https://github.com/ChimchetamIbeh/Vehicle_Reporting_SQL/blob/1f71c805151080ff79ed614d69ee519b332a5fe0/Status%20Report.png)
 7. Average distance from owner and report count, grouped by status
 8. Individuals with the most reports filed on their vehicles
-9. Report counts by last-seen location and plate
+9. Report counts by last-seen location and plate ![Most Reported Plate Numbers](https://github.com/ChimchetamIbeh/Vehicle_Reporting_SQL/blob/1f71c805151080ff79ed614d69ee519b332a5fe0/Plate%20Numbers.png)
 10. Most recent report per investigator, with jurisdiction
 
 ## SQL concepts used
